@@ -1,0 +1,16 @@
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\bin\Debug\net5.0\5 лаба Queue.exe
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\bin\Debug\net5.0\5 лаба Queue.deps.json
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\bin\Debug\net5.0\5 лаба Queue.runtimeconfig.json
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\bin\Debug\net5.0\5 лаба Queue.runtimeconfig.dev.json
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\bin\Debug\net5.0\5 лаба Queue.dll
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\bin\Debug\net5.0\ref\5 лаба Queue.dll
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\bin\Debug\net5.0\5 лаба Queue.pdb
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\obj\Debug\net5.0\5 лаба Queue.csproj.AssemblyReference.cache
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\obj\Debug\net5.0\5 лаба Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\obj\Debug\net5.0\5 лаба Queue.AssemblyInfoInputs.cache
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\obj\Debug\net5.0\5 лаба Queue.AssemblyInfo.cs
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\obj\Debug\net5.0\5 лаба Queue.csproj.CoreCompileInputs.cache
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\obj\Debug\net5.0\5 лаба Queue.dll
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\obj\Debug\net5.0\ref\5 лаба Queue.dll
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\obj\Debug\net5.0\5 лаба Queue.pdb
+C:\Users\KIRILL\source\repos\5 лаба Queue\5 лаба Queue\obj\Debug\net5.0\5 лаба Queue.genruntimeconfig.cache
